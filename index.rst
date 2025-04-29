@@ -30,6 +30,20 @@ BTW here are a few videos of the robot base's performance, mainly teleoperation 
    web-share"
    allowfullscreen></iframe>
 
+   <iframe width="315" height="560" 
+   src="https://www.youtube.com/embed/ZH2piIbLctI" 
+   title="Load Carrying Teleoperation (100kg)" frameborder="0" 
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+   gyroscope; picture-in-picture;
+   web-share"
+   allowfullscreen></iframe>
+
+   <iframe width="560" height="315"
+   src="https://www.youtube.com/embed/kx9l3BXPvO4?si=mH0re-ZX-__Ofo1Y"
+   title="YouTube video player" frameborder="0"
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+   allowfullscreen></iframe>
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
